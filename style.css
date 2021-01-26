@@ -3,9 +3,11 @@ body{
   padding:0;
   margin:0;
   background-color:#f4f4f4;
+height:100%;
 }
-.photo: img{
+.photo{
 				border-radius:50%;
+margin:auto;
 }
 
 /* Global */
